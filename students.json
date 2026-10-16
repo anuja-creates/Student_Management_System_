@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "a",
+        "dept": "python"
+    },
+    {
+        "id": 3,
+        "name": "c",
+        "dept": "java"
+    },
+    {
+        "id": 4,
+        "name": "d",
+        "dept": "python"
+    },
+    {
+        "id": 5,
+        "name": "Rita",
+        "dept": "C"
+    },
+    {
+        "id": 6,
+        "name": "Anuja",
+        "dept": "Python"
+    },
+    {
+        "id": 7,
+        "name": "Riya",
+        "dept": "C"
+    }
+]
